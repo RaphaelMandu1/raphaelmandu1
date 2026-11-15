@@ -10,7 +10,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Especialista+em+Identidade+Digital;IAM+%7C+PAM+%7C+Zero+Trust;Autentica%C3%A7%C3%A3o+%7C+Autoriza%C3%A7%C3%A3o+%7C+Governan%C3%A7a" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=00D4FF&center=true&vCenter=true&width=650&lines=Analista+em+Identidade+Digital;IAM+%7C+PAM+%7C+Zero+Trust;Autentica%C3%A7%C3%A3o+%7C+Autoriza%C3%A7%C3%A3o+%7C+Governan%C3%A7a" alt="Typing SVG" />
 
 </div>
 
