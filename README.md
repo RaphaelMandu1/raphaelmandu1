@@ -18,7 +18,7 @@
 
 ### 👨‍💻 Sobre mim
 
-Olá! Eu sou ** RAPHAEL CACILHA**, profissional especializado em **Identidade Digital** e Segurança da Informação.
+Olá! Eu sou ** RAPHAEL CACILHA**, profissional em **Identidade Digital** e Segurança da Informação.
 
 Minha atuação é focada em garantir que as identidades digitais sejam protegidas, gerenciadas e governadas de forma segura — desde a autenticação até o controle de acesso privilegiado.
 
