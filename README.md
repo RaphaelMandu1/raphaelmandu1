@@ -91,7 +91,7 @@ Minha atuação é focada em garantir que as identidades digitais sejam protegid
 
 - 💼 LinkedIn: [linkedin.com/in/SEU_LINKEDIN](https://linkedin.com/in/SEU_LINKEDIN)
 - 📧 Email: seuemail@dominio.com
-- 🐦 Twitter/X: [@seu_usuario](https://x.com/seu_usuario)
+
 
 ---
 
